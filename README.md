@@ -2,7 +2,7 @@ Breve descrição:
 📚 Um programa que salva e lê arquivos em binário contendo uma ou mais structs.
 
 Data de envio para avaliação: 12 Out 2018, 21:24
-Autores: @lucasdamo e Luiza Fernandes
+Autores: @lucasdamo e Luiza Del Negro Ciuffo Fernandes
 
 # Executando o programa
 Para rodar o programa é necessário criar uma função main. O código fonte contém apenas as funções de gravar e ler structs. Para isso, veja os testes abaixo
