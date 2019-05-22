@@ -4,7 +4,7 @@
   Software Básico, na PUC-Rio. O objetivo desse programa é
   armazenar e ler structs no formato estabelicido por uma main.
 
-  Copyright (C) 2019 Lucas Rebello Damo & Luiza Del Negro
+  Copyright (C) 2019 Lucas Rebello Damo & Luiza Del Negro Ciuffo Fernandes
 
   Este programa é um software livre; você pode redistribuí-lo e/ou
   modificá-lo sob os termos da Licença Pública Geral GNU como publicada
